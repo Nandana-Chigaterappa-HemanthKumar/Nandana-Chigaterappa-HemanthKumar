@@ -1,4 +1,3 @@
-<!-- Banner / Hero Image (You can update this with your own image or a generated banner) -->
 <p align="center">
   <img src="https://i.imgur.com/4M7IWwB.png" width="800" alt="Welcome Banner"/>
 </p>
