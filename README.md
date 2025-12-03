@@ -25,15 +25,11 @@ I’m deeply passionate about:
 Every project I work on is driven by one belief:  
 **If we can imagine it, we can build it.** 
 
----
-
 ## **Currently Building & Exploring**
 - **DeepSeek-Style Multi-Stage LLM Training Pipeline** on various models.
 - **A Crypto Anti-Money Laundering + Illicit Transaction Detection System** using IBM watsonx.
 - **CateLytics** – A Spark-based system that analyzes reviews based on sentiment & sustainability. 
 - **Visual Learning Assistant** – An optimized text-to-diagram diffusion system that generates high-quality, curriculum-aligned educational diagrams from text. 
-
----
 
 ## ** My Skills **
 
@@ -104,8 +100,6 @@ Every project I work on is driven by one belief:
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
 </p>
-
----
 
 <p align="center">
   <em>✨ “Tokens tell the story, and I’m here to make every token count.” ✨</em>
