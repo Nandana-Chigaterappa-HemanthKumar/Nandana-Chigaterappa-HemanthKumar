@@ -35,44 +35,62 @@ Every project I work on is driven by one belief:
 
 ---
 
-## **My Skills**
+## ** My Skills **
 
-### **👨‍💻 Technical Skills**
-#### **Languages**
-- Python, SQL, JavaScript, Shell
+#### **Machine Learning & AI**
+- PyTorch
+- pandas
+- NumPy
+- scikit-learn
+- XGBoost
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- Generative AI
+- Agentic AI (LangChain, CrewAI)
+- Reinforcement Learning (RL)
+- Retrieval-Augmented Generation (RAG)
+- Supervised & Unsupervised Learning
+- Recommendation Systems
+- Time Series Forecasting.
 
-#### **AI and Machine Learning**
-- Transformers, LLMs, Fine-tuning (SFT, DPO, GRPO, LoRA/QLoRA)
-- Self-Consistency, Rejection Sampling, Model Evaluation  
-- Foundation Models (Llama, Qwen, DeepSeek, Phi, Mistral)
+#### ** Languages & Databases **
+- Python
+- Java
+- SQL
+- NoSQL
 
-#### **Frameworks & Libraries**
-- PyTorch • Hugging Face • TRL • PEFT • Unsloth  
-- TensorFlow • Keras  
-- Scikit-learn • Pandas • NumPy • Matplotlib  
+#### ** Data Science, Big Data & ETL **
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis Techniques
+- A/B Testing
+- Hypothesis Testing
+- Feature Engineering
+- Apache Spark
+- Hive
+- Hadoop
+- MapReduce
+- Data Warehouse
+- Databricks
+- Snowflake
+- AWS
+- GCP
+- Apache Airflow
 
-#### **Big Data & Cloud**
-- Apache Spark • Databricks  
-- AWS • Google Cloud  
-- Snowflake • Airflow  
+#### ** Data Visualization & Business Intelligence **
+- Tableau
+- Power BI
+- AWS QuickSight
+- MongoDB Charts
+- Matplotlib
+- Seaborn
+- Microsoft 365
 
-#### **Other Skills**
-- Data Engineering Pipelines  
-- RAG Pipelines & Vector Databases (Weaviate, FAISS)  
-- Data Visualization (Tableau, Power BI)  
-- Git, CI/CD, Docker  
-
----
-
-## **Leadership & Impact**
-- **President, Applied Intelligence Systems (AIS Club @ SJSU)**  
-- Host & Organizer of:  
-  - AI & Cybersecurity Leadership Forum (Mission Rock, SF)  
-  - AIS Intern Expo (AWS, GM, Mercedes-Benz speakers)  
-  - AI workshops & student mentorship programs  
-- Partnering with executives to build an **AI aptitude accelerator program**
-
----
+#### ** Developer Tools & Other Skills **
+- Git
+- Docker
+- Kubernetes
+- VS Code
+- MS Excel (Advanced)
 
 ## **Let’s Connect**
 <p align="left">
