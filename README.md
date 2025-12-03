@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/4M7IWwB.png" width="800" alt="Welcome Banner"/>
+  <img src="<img width="2816" height="1536" alt="Gemini_Generated_Image_wtjbnkwtjbnkwtjb" src="https://github.com/user-attachments/assets/230794b1-a3c5-48a2-96f1-ce280c475948" />" width="800" alt="Welcome Banner"/>
 </p>
 
 <h1 align="center">Hey there! I'm <strong>Nandana</strong> 👋</h1>
@@ -20,6 +20,7 @@ I’m deeply passionate about:
 - **Agentic AI & Automation**
 - **End-to-end AI/ML engineering**
 - **Building meaningful, high-impact projects**
+
 - **Leadership, public speaking, and empowering student communities**
 
 Every project I work on is driven by one belief:  
