@@ -102,5 +102,5 @@ Every project I work on is driven by one belief:
 </p>
 
 <p align="center">
-  <em>✨ “Designing the next generation of intelligent systems, one experiment at a time.” ✨</em>
+  <em>✨ “Powered by tokens, caffeine, and totally unreasonable levels of curiosity.” ✨</em>
 </p>
