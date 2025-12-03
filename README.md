@@ -31,7 +31,7 @@ Every project I work on is driven by one belief:
 - **CateLytics** – A Spark-based system that analyzes reviews based on sentiment & sustainability. 
 - **Visual Learning Assistant** – An optimized text-to-diagram diffusion system that generates high-quality educational diagrams from text. 
 
-## ** My Skills **
+## **My Skills**
 
 #### **Machine Learning & AI**
 - PyTorch
@@ -49,13 +49,13 @@ Every project I work on is driven by one belief:
 - Recommendation Systems
 - Time Series Forecasting.
 
-#### ** Languages & Databases **
+#### **Languages & Databases**
 - Python
 - Java
 - SQL
 - NoSQL
 
-#### ** Data Science, Big Data & ETL **
+#### **Data Science, Big Data & ETL**
 - Exploratory Data Analysis (EDA)
 - Statistical Analysis Techniques
 - A/B Testing
@@ -72,7 +72,7 @@ Every project I work on is driven by one belief:
 - GCP
 - Apache Airflow
 
-#### ** Data Visualization & Business Intelligence **
+#### **Data Visualization & Business Intelligence**
 - Tableau
 - Power BI
 - AWS QuickSight
@@ -81,7 +81,7 @@ Every project I work on is driven by one belief:
 - Seaborn
 - Microsoft 365
 
-#### ** Developer Tools & Other Skills **
+#### **Developer Tools & Other Skills**
 - Git
 - Docker
 - Kubernetes
@@ -102,5 +102,5 @@ Every project I work on is driven by one belief:
 </p>
 
 <p align="center">
-  <em>✨ “Tokens tell the story, and I’m here to make every token count.” ✨</em>
+  <em>✨ “Designing the next generation of intelligent systems, one experiment at a time.” ✨</em>
 </p>
