@@ -10,40 +10,38 @@
 
 ## **About Me**
 
-Hi! I'm **Nandana Chigaterappa HemanthKumar**, currently pursuing my **M.S. in Data Science at San José State University (SJSU)** — graduating in **December 2025**.  
+I am **Nandana Chigaterappa HemanthKumar**, currently pursuing my **M.S. in Data Science at San José State University (SJSU)**.  
 I thrive at the intersection of **AI research, creativity, and impact-driven engineering**.
 
-I'm currently leading the **Applied Intelligence Systems (AIS) Club @ SJSU** as the President, building communities, empowering students, and designing AI experiences that inspire.
+I am currently leading the **Applied Intelligence Systems (AIS) Club @ SJSU** as the President, building communities, empowering students, and designing AI experiences that inspire.
 
 I’m deeply passionate about:
-- 🧠 **LLM Reasoning Research** (DeepSeek-style fine-tuning pipelines, GRPO, SFT, Rejection Sampling)
-- 🤖 **Agentic AI & Automation**
-- 📊 **End-to-end AI/ML engineering**
-- 🌱 **Building meaningful, high-impact projects**
-- 🎤 **Leadership, public speaking, and empowering student communities**
+- **LLM Reasoning Research** 
+- **Agentic AI & Automation**
+- **End-to-end AI/ML engineering**
+- **Building meaningful, high-impact projects**
+- **Leadership, public speaking, and empowering student communities**
 
 Every project I work on is driven by one belief:  
-**If we can imagine it, we can build it.** ✨
+**If we can imagine it, we can build it.** 
 
 ---
 
-## 🚀 **Currently Building & Exploring**
-- 🧩 **DeepSeek-Style Multi-Stage LLM Training Pipeline** on Qwen/Llama models  
-- ⚡ **SheNergy** – a Crypto AML + Illicit Transaction Detection System (IBM watsonx)  
-- 📚 **CateLytics** – A Spark-based review sentiment & sustainability classifier  
-- 🎨 **Visual Learning Assistant** – Diffusion-powered T2I models for educational diagrams  
-- 🔒 **AI Security & Red Teaming Experiments**  
-- 🎓 Preparing for Graduation Speaker Applications (SJSU)
+## **Currently Building & Exploring**
+- **DeepSeek-Style Multi-Stage LLM Training Pipeline** on various models.
+- **A Crypto Anti-Money Laundering + Illicit Transaction Detection System** using IBM watsonx.
+- **CateLytics** – A Spark-based system that analyzes reviews based on sentiment & sustainability. 
+- **Visual Learning Assistant** – An optimized text-to-diagram diffusion system that generates high-quality, curriculum-aligned educational diagrams from text. 
 
 ---
 
-## 🛠️ **My Skills**
+## **My Skills**
 
 ### **👨‍💻 Technical Skills**
 #### **Languages**
 - Python, SQL, JavaScript, Shell
 
-#### **Machine Learning / AI**
+#### **AI and Machine Learning**
 - Transformers, LLMs, Fine-tuning (SFT, DPO, GRPO, LoRA/QLoRA)
 - Self-Consistency, Rejection Sampling, Model Evaluation  
 - Foundation Models (Llama, Qwen, DeepSeek, Phi, Mistral)
@@ -66,7 +64,7 @@ Every project I work on is driven by one belief:
 
 ---
 
-## 🌐 **Leadership & Impact**
+## **Leadership & Impact**
 - **President, Applied Intelligence Systems (AIS Club @ SJSU)**  
 - Host & Organizer of:  
   - AI & Cybersecurity Leadership Forum (Mission Rock, SF)  
@@ -76,7 +74,7 @@ Every project I work on is driven by one belief:
 
 ---
 
-## 📫 **Let’s Connect**
+## **Let’s Connect**
 <p align="left">
   <a href="https://www.linkedin.com/in/nandana-c-h-b85a83296/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
