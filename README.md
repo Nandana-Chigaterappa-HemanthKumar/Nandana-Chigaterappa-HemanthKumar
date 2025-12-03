@@ -5,7 +5,7 @@
 <h1 align="center">Hey there! I'm <strong>Nandana</strong> 👋</h1>
 
 <p align="center">
-  <em>AI Researcher • Data Scientist • Builder • President of the AIS Club @ SJSU • A Dreamer with relentless curiosity and grit </em>
+  <em>AI Researcher • Data Scientist • Builder • President of the AIS Club @ SJSU • A Dreamer with relentless curiosity and grit! </em>
 </p>
 
 ## **About Me**
