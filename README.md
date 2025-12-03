@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/4M7IWwB.png" width="800" alt="Welcome Banner"/>
 </p>
 
-<h1 align="center">Hey there! I'm <strong>Nandana C H</strong> 👋</h1>
+<h1 align="center">Hey there! I'm <strong>Nandana</strong> 👋</h1>
 
 <p align="center">
   <em>AI Researcher • Data Scientist • Builder • President of AIS @ SJSU • Dreamer with relentless curiosity 🚀</em>
