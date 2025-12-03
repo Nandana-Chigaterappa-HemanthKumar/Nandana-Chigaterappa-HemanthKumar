@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="<img width="2816" height="1536" alt="Gemini_Generated_Image_wtjbnkwtjbnkwtjb" src="https://github.com/user-attachments/assets/230794b1-a3c5-48a2-96f1-ce280c475948" />" width="800" alt="Welcome Banner"/>
+  <img width="2816" height="1536" alt="Gemini_Generated_Image_wtjbnkwtjbnkwtjb" src="https://github.com/user-attachments/assets/932feda6-e104-4256-a1f2-de5f789ebc34" />
 </p>
 
 <h1 align="center">Hey there! I'm <strong>Nandana</strong> 👋</h1>
