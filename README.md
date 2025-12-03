@@ -6,12 +6,10 @@
 <h1 align="center">Hey there! I'm <strong>Nandana</strong> 👋</h1>
 
 <p align="center">
-  <em>AI Researcher • Data Scientist • Builder • President of AIS @ SJSU • Dreamer with relentless curiosity 🚀</em>
+  <em>AI Researcher • Data Scientist • Builder • President of the AIS Club @ SJSU • A Dreamer with relentless curiosity and grit </em>
 </p>
 
----
-
-## 🌼 **About Me**
+## **About Me**
 
 Hi! I'm **Nandana Chigaterappa HemanthKumar**, currently pursuing my **M.S. in Data Science at San José State University (SJSU)** — graduating in **December 2025**.  
 I thrive at the intersection of **AI research, creativity, and impact-driven engineering**.
