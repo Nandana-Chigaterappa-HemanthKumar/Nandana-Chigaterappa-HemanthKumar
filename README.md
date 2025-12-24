@@ -1,8 +1,8 @@
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/9d4b7f89-a3a1-4ed7-ac1f-bbc0b2d3a442"
+    src="https://github.com/user-attachments/assets/281e3802-0dde-4fe6-886b-e95e44989b19"
     alt="Nandana Portfolio Banner"
-    width="420"
+    style="max-width:420px; width:100%; height:auto;"
   />
 </p>
 
