@@ -1,6 +1,6 @@
 <p align="center">
-  <img width="2816" height="1536" alt="![Nandana_Portfolio_Banner](https://github.com/user-attachments/assets/9d4b7f89-a3a1-4ed7-ac1f-bbc0b2d3a442)
-" src="https://github.com/user-attachments/assets/932feda6-e104-4256-a1f2-de5f789ebc34" />
+  <img width="2816" height="1536" alt=Nandana_Portfolio_Banner
+" src="https://github.com/user-attachments/assets/9d4b7f89-a3a1-4ed7-ac1f-bbc0b2d3a442" />
 </p>
 
 <h1 align="center">Hey there! I'm <strong>Nandana</strong> 👋</h1>
