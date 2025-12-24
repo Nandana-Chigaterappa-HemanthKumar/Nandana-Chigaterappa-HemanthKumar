@@ -14,7 +14,7 @@
 
 ## **About Me**
 
-I am **Nandana Chigaterappa HemanthKumar**, and I'm a **Data Science Graduate from San José State University (SJSU)**.  
+I am **Nandana Chigaterappa HemanthKumar**, a **Data Science Graduate from San José State University (SJSU)**.  
 I thrive at the intersection of **AI research, creativity, and impact-driven engineering**.
 
 I am currently leading the **Applied Intelligence Systems (AIS) Club @ SJSU** as the President, building communities, empowering students, and designing AI experiences that inspire.
