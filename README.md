@@ -17,8 +17,6 @@
 I am **Nandana Chigaterappa HemanthKumar**, a **Data Science Graduate from San José State University (SJSU)**.  
 I thrive at the intersection of **AI research, creativity, and impact-driven engineering**.
 
-I am currently leading the **Applied Intelligence Systems (AIS) Club @ SJSU** as the President, building communities, empowering students, and designing AI experiences that inspire.
-
 I’m deeply passionate about:
 - **LLM Reasoning Research** 
 - **Agentic AI & Automation**
@@ -30,7 +28,7 @@ I’m deeply passionate about:
 Every project I work on is driven by one belief:  
 **If we can imagine it, we can build it.** 
 
-## **Currently Building & Exploring**
+## **My Recent Projects include:**
 - **DeepSeek-Style Multi-Stage LLM Training Pipeline** on various models.
 - **A Crypto Anti-Money Laundering + Illicit Transaction Detection System** using IBM watsonx.
 - **CateLytics** – A Spark-based system that analyzes reviews based on sentiment & sustainability. 
