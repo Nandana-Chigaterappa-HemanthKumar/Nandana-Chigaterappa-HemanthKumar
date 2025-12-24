@@ -36,15 +36,19 @@ Every project I work on is driven by one belief:
 
 ## **Let’s Connect**
 <p align="left">
+  
   <a href="https://www.linkedin.com/in/nandana-c-h-b85a83296/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
+  
   <a href="mailto:nandanach09@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
+  
   <a href="https://github.com/Nandana-Chigaterappa-HemanthKumar">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
+  
 </p>
 
 <p align="center">
