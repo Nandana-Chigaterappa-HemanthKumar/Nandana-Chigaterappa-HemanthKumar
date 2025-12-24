@@ -18,7 +18,7 @@ I am **Nandana Chigaterappa HemanthKumar**, a **Data Science Graduate from San J
 I thrive at the intersection of **AI research, creativity, and impact-driven engineering**.
 
 I’m deeply passionate about:
-- **LLM Reasoning Research** 
+- **Generative AI and Large Language Models (LLMs)** 
 - **Agentic AI & Automation**
 - **End-to-end AI/ML engineering**
 - **Building meaningful, high-impact projects**
