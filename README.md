@@ -21,6 +21,7 @@ I’m deeply passionate about:
 - **Generative AI and Large Language Models (LLMs)** 
 - **Agentic AI & Automation**
 - **End-to-end AI/ML engineering**
+- **Data Science**
 - **Building meaningful, high-impact projects**
 
 - **Leadership, public speaking, and empowering student communities**
